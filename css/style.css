@@ -1,0 +1,120 @@
+body {
+	/*padding: 5px;*/
+    background-position: center;
+    font-family: sans-serif;
+}
+img {
+    width: 100%;
+    height: auto;
+    align-items: center;
+ }
+ .title-logo {
+ 	width:193px; 
+ 	height:130px;
+ }
+
+ #textbox {
+ 	padding-top: 10px;
+  /*padding-right: 30px;*/
+  padding-bottom: 10px;
+  /*padding-left: 80px;*/
+  text-align: center;
+ 	background-color: #faef50;
+ }
+ .col-md-6 {
+ 	border-radius: 50%;
+ }
+ .mockup {
+ 	border-radius: 50%;
+ 	width:193px; 
+ 	height:193px;
+ }
+ .round {
+ 	width: 100px;
+ 	height: 100px;
+ 	border-radius: 50%;
+ }
+ #portfolio {
+ 	background-color: #25947a;
+ }
+ #icon {
+ 	width: 130px;
+ 	height: 100px;
+ 	border-radius: 50%;
+ }
+ #icons {
+ 	background-color: #e3e8e7;
+ }
+ #same {
+ 	background-color: #e3e8e7;
+ }
+ #blue {
+ 	background-color: white;
+ }
+ .check {
+ 	width: 20px;
+ 	height: 20px;
+ 	border-radius: 30%;
+ }
+ td {
+ 	padding: 4px;
+ }
+ table {
+ 	width: 60%;
+ }
+#table {
+	background-color: #25947a;
+}
+/*#box-shadow {
+	box-shadow: 5px 5px 5px grey;
+}*/
+.btn-group button {
+	display: block;
+	width: 50%;
+}
+
+#container {
+	background-image: url("images/blur.jpg");
+	background-color: #25947a;
+}
+.wt-back {
+	background-image: url("images/white.PNG");
+	border-width: 0px;
+}
+.location {
+	width:18px; 
+ 	height:25px;
+}
+.call {
+	width:18px; 
+ 	height:25px;
+}
+.below-icon {
+	width:30px; 
+ 	height:30px;
+ 	padding: 1.5px;
+}
+.off {
+	width:35px; 
+ 	height:35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
